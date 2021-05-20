@@ -17,6 +17,9 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         float m=5.5;
+
+	public void st(){
+}
     }
     
 }
